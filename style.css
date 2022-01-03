@@ -1,0 +1,28 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #4b3737;
+}
+
+.index
+{
+    text-align: center;
+}
+
+.index ul
+{
+    list-style: none;
+    font-size: 1.3em;
+}
+
+h1
+{
+    color: #ad7f7f;
+}  
+
+img
+{
+    width: 45%;
+    height: auto;
+}
